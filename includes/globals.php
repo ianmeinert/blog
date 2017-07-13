@@ -4,10 +4,10 @@
 	/* Database definitions */
 	/*********************************/
 
-	define('DB_HOST','db448154821.db.1and1.com');
-	define('DB_USER','dbo448154821');
-	define('DB_PASS','IMBusyarea51');
-	define('DB_NAME','db448154821');
+	define('DB_HOST','');
+	define('DB_USER','');
+	define('DB_PASS','');
+	define('DB_NAME','');
 
 	/*********************************/
 	/* Website global variables */
